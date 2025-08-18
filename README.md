@@ -1,5 +1,5 @@
 # Entregable 1
-## Integrantes
+### Integrantes
 - Martin Valencia
 - Emanuel González
 - Nicolás Ospina
